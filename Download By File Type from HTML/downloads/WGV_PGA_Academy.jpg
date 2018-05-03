@@ -1,0 +1,281 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+	Page Not Found
+</title>
+  <meta name="description" content="" />
+  <meta name="keywords" content="" />
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><link type="text/css" href="/_assets/css/style.css" rel="Stylesheet" /><link type="text/css" href="/_assets/css/selectBoxStyles.css" rel="Stylesheet" />
+  <script type="text/javascript" src="/_assets/js/html5.js"></script>
+  <script type="text/javascript" src="/_assets/js/jquery-1.7.min.js"></script>
+	<script type="text/javascript" src="/_assets/js/jquery-ui-1.8.21.custom.min.js"></script>
+  <script type="text/javascript" src="/_assets/js/jquery.jshowoff.js"></script>
+	<script type="text/javascript" src="/_assets/js/jquery.selectbox-0.1.3.min.js"></script>
+	<script type="text/javascript" src="/_assets/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
+	<link type="text/css" href="/_assets/fancybox/jquery.fancybox-1.3.4.css" rel="Stylesheet" />
+  <script type="text/javascript" src="/_assets/js/siteHelper.js"></script>
+    <script type="text/javascript" src="/_assets/js/YoutubeTracker.js"></script>
+	<script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?sensor=false"></script>
+  
+  
+  
+
+
+
+
+  <!-- Start Google Analytics -->
+  <script type="text/javascript">
+  	var _gaq = _gaq || [];
+  	_gaq.push(['_setAccount', 'UA-4082710-1']);
+  	_gaq.push(['_trackPageview']);
+
+  	(function () {
+  		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+  		ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+  		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  	})();
+	</script>
+  <!-- End Google Analytics -->
+  <!-- Start Google Keyword Tracking -->
+  	<script type="text/javascript">
+  		if (document.referrer.match(/google\./gi) && document.referrer.match(/cd/gi)) {
+		  var myString = document.referrer;
+		  var r        = myString.match(/cd=(.*?)&/);
+		  var rank     = parseInt(r[1]);
+		  var kw       = myString.match(/q=(.*?)&/);
+		  
+		  if (kw[1].length > 0) {
+		    var keyWord  = decodeURI(kw[1]);
+		  } else {
+		    keyWord = "(not provided)";
+		  }
+		
+		  var p        = document.location.pathname;
+		  _gaq.push(['_trackEvent', 'RankTracker', keyWord, p, rank, true]);
+		}
+  	</script>
+  <!-- End Google Keyword Tracking -->
+<meta name="p:domain_verify" content="bcb2b7576b1d52e8b3315a05ae51dd15" /></head>
+<body>
+  <form method="post" action="/page-not-found.aspx?404;http://www.worldgolfrealestate.com:80/location/master-plan.aspx/_assets/images/WGV_PGA_Academy.jpg" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUENTM4MQ9kFgJmD2QWAmYPZBYCZg9kFgICAQ9kFgZmD2QWAmYPFgIeBFRleHQFDlBhZ2UgTm90IEZvdW5kZAICDxYCHwBlZAIEDxYCHwBlZGQwjn8KZDsPxbj8/g9d7WZq9wzBE6yFXpULv7+6cbohQw==" />
+</div>
+
+    <div id="Wrapper">
+      <header>
+        <div id="HeaderTopRow">
+          <div id="HeaderTopRowContent">
+            
+		<nav>
+      <ul>
+						<li><a href="/about-world-golf-real-estate-company.aspx" target="_self">About</a></li>
+							<li>/</li>
+						<li><a href="/commercial-properties.aspx" target="_self">Commercial Property</a></li>
+							<li>/</li>
+						<li><a href="/home-builders.aspx" target="_self">Builders</a></li>
+							<li>/</li>
+						<li><a href="/contact.aspx" target="_self">Contact</a></li>
+			</ul>
+   </nav>
+
+          </div>
+        </div>
+        <div id="HeaderBottomRow">
+          <div id="HeaderBottomRowContent">
+            
+		<nav>
+			<ul id="TopLevel">
+					<li class=""><a href="/">Home</a></li>
+
+
+							<li class=""><a href="/community.aspx">Village Life</a>
+						
+										<ul class="secondTopNavLevel">
+													<li><a href="/community/golf-courses.aspx"><img src="/media/12023/dropdown_golf.jpg" alt="" /><br />Golf</a></li>
+													<li><a href="/community/the-village.aspx"><img src="/media/12038/dropdown_village.jpg" alt="" /><br />The Village</a></li>
+													<li><a href="/community/nature.aspx"><img src="/media/12028/dropdown_nature.jpg" alt="" /><br />Nature</a></li>
+													<li><a href="/community/swim-tennis-center.aspx"><img src="/media/12033/dropdown_swimtennis.jpg" alt="" /><br />Swim &amp; Tennis Center</a></li>
+										</ul>
+							</li>
+							<li class=""><a href="/available-homes.aspx">Available Homes</a>
+						
+							</li>
+							<li class=""><a href="/neighborhoods.aspx">Neighborhoods</a>
+						
+										<ul class="secondTopNavLevel">
+													<li><a href="/neighborhoods/single-family-homes.aspx"><img src="/media/15359/home_type_single_dropdown.jpg" alt="" /><br />Single Family Homes</a></li>
+													<li><a href="/neighborhoods/condominium-homes.aspx"><img src="/media/15364/home_type_condo_dropdown.jpg" alt="" /><br />Condominium Homes</a></li>
+													<li><a href="/neighborhoods/patio-homes.aspx"><img src="/media/15369/home_type_patio_dropdown_v2.jpg" alt="" /><br />Patio Homes</a></li>
+													<li><a href="/neighborhoods/active-adult-communities.aspx"><img src="/media/15374/home_type_adult_dropdown_v2.jpg" alt="" /><br />Active Adult Communities</a></li>
+										</ul>
+							</li>
+							<li class=""><a href="/location.aspx">Location</a>
+						
+										<ul class="secondTopNavLevel">
+													<li><a href="/location/master-plan.aspx"><img src="/media/19757/masterplan_dropdown.jpg" alt="" /><br />Master Plan</a></li>
+													<li><a href="/location/schools.aspx"><img src="/media/15614/schools_dropdown.jpg" alt="" /><br />Schools</a></li>
+													<li><a href="/location/shopping.aspx"><img src="/media/15628/dropdown_shopping.jpg" alt="" /><br />Shopping</a></li>
+													<li><a href="/location/fun-things-to-do.aspx"><img src="/media/15633/fun_dropdown.jpg" alt="" /><br />Fun</a></li>
+													<li><a href="/location/serenata-beach-club.aspx"><img src="/media/25380/dropdown_serenata_2.jpg" alt="" /><br />Serenata Beach Club</a></li>
+										</ul>
+							</li>
+							<li class=""><a href="/calendar.aspx">News &amp; Events</a>
+						
+							</li>
+								<li><a href="http://worldgolfvillageblog.com/" target="_self">Blog &amp; Photos</a></li>
+			</ul>
+		</nav>
+
+          </div>
+        </div>
+      </header>
+
+      <div id="BodyWrapper">
+        <div id="BodyWrapperInside">
+          
+	<div id="BodyContentWrapper">
+		<div id="ShadowLeft">&nbsp;</div>
+		<div id="ShadowRight">&nbsp;</div>
+		<div id="BodyContent">
+			
+	<div id="PageNotFoundContent">
+		
+<p><a href="/" title="Home"><img src="/media/21859/404_image.jpg" width="950" height="622" alt="Page Not Found Image"/></a></p>
+
+	</div>
+
+		</div>
+	</div>
+
+        </div>
+      </div>
+
+      <div id="SponsorRow">  
+        
+					<a href="http://davidsonrealtyinc.com/" target="_blank"><img src="/media/493/logo_davidson.jpg" alt="" /></a>
+					<a href="http://www.worldgolfhalloffame.org/" target="_blank"><img src="/media/503/logo_hallfame.jpg" alt="" /></a>
+					<a href="http://www.golfwgv.com/Club/Scripts/Home/home.asp" target="_blank"><img src="/media/508/logo_king_bear.jpg" alt="" /></a>
+					<a href="http://www.golfwgv.com/Club/Scripts/Home/home.asp" target="_blank"><img src="/media/518/logo_slammer_squire.jpg" alt="" /></a>
+					<a href="http://www.worldgolfrenaissance.com/" target="_blank"><img src="/media/513/logo_renaissance.jpg" alt="" /></a>
+					<a href="http://www.murraybroscaddyshack.com/" target="_blank"><img src="/media/498/logo_caddyshack.jpg" alt="" /></a>
+					<a href="http://www.serenataclub.com/" target="_blank"><img src="/media/25694/logo_serenata.jpg" alt="" /></a>
+
+      </div>
+
+      <div id="FooterWrapper">
+        <div id="FooterContent">
+          
+  <table>
+		<tr>
+			<td id="FooterMenu">
+				<nav>
+								<div id="Column1">
+									<ul>
+													<li><a href="/" target="_self">Home</a></li>
+													<li><a href="/available-homes.aspx" target="_self">Property Search</a></li>
+													<li><a href="/neighborhoods.aspx" target="_self">Neighborhoods</a></li>
+													<li><a href="/home-builders.aspx" target="_self">Builders</a></li>
+													<li><a href="/about-world-golf-real-estate-company.aspx" target="_self">About Us</a></li>
+													<li><a href="/calendar.aspx" target="_self">Calendar</a></li>
+									</ul>
+								</div>
+								<div id="Column2">
+									<ul>
+														<li>
+																	<a href="/community/the-village.aspx" target="_self">Village Life</a>
+
+															<ul>
+																											<li><a href="/community/golf-courses.aspx" target="_self">Golf</a></li>	
+																											<li><a href="/community/the-village.aspx" target="_self">The Village</a></li>	
+																											<li><a href="/community/nature.aspx" target="_self">Nature</a></li>	
+																											<li><a href="/community/swim-tennis-center.aspx" target="_self">Swim &amp; Tennis Center</a></li>	
+															</ul>
+														</li>
+														<li>
+																	<a href="/location.aspx" target="_self">Location</a>
+
+															<ul>
+																											<li><a href="/location/schools.aspx" target="_self">Schools</a></li>	
+																											<li><a href="/location/shopping.aspx" target="_self">Shopping</a></li>	
+																											<li><a href="/location/fun-things-to-do.aspx" target="_self">Fun</a></li>	
+															</ul>
+														</li>
+									</ul>
+								</div>
+								<div id="Column3">
+									<ul>
+													<li><a href="http://worldgolfvillageblog.com/" target="_blank">Blog</a></li>
+													<li><a href="/contact.aspx" target="_self">Contact Us</a></li>
+													<li><a href="/privacy.aspx" target="_self">Privacy Policy</a></li>
+									</ul>
+								</div>
+					
+					<div class="clear">&nbsp;</div>
+				</nav>
+				
+				<div id="FooterAddress">
+								<div id="AddressHeader">
+									The Village Office
+								</div>
+									<ul>
+													<li>904-940-5000 or 800-940-2898</li>
+												<li>100 East Town Place</li>
+												<li>Suite 100</li>
+												<li>St. Augustine, FL 32092</li>
+									</ul>
+										<ul>
+											<li><a href="mailto:info@davidsonrealtyinc.com">info@davidsonrealtyinc.com</a></li>
+										</ul>
+				</div>
+				<div class="clear">&nbsp;</div>
+			</td>
+			<td id="FooterSep">&nbsp;</td>
+			<td id="FooterSocial" style="background:#37332e;background: rgba(46, 46, 46, .90);">
+					<ul>
+								<li><a href="https://www.facebook.com/WorldGolfVillage" target="_blank"><img src="/media/25886/icon_facebook.png" alt="" />facebook</a></li>
+								<li><a href="http://twitter.com/WorldGolfVillag" target="_blank"><img src="/media/25891/icon_twitter.png" alt="" />twitter</a></li>
+								<li><a href="http://pinterest.com/worldgolf/" target="_blank"><img src="/media/25901/icon_pinterest.png" alt="" />pinterest</a></li>
+								<li><a href="http://instagram.com/worldgolfvillage#" target="_blank"><img src="/media/25911/icon_instagram.png" alt="" />Instagram</a></li>
+								<li><a href="http://www.youtube.com/user/DavidsonRealty" target="_blank"><img src="/media/25896/icon_youtube.png" alt="" />youtube</a></li>
+								<li><a href="http://worldgolfvillageblog.com/" target="_blank"><img src="/media/25906/icon_blog.png" alt="" />WGV blog</a></li>
+					</ul>
+			</td>
+		</tr>
+	</table>
+	<div id="DesignProps">
+		Site built by: <a href="http://www.redfingroup.com" target="_blank"><img src="/_assets/images/RFG_Logo.png" alt="" /></a>
+	</div>
+
+<script type="text/javascript">
+	$(".secondTopNavLevel").find("li:last-child").addClass("last");
+
+	
+	var bodyEndOffset = $("#BodyContent").offset().left + $("#BodyContent").width();
+
+	$('.secondTopNavLevel').each(function () {
+
+		var count = $(this).children("li").length;
+		$(this).css("width", 169 * count + "px");
+
+		var menuEndOffset = $(this).offset().left + $(this).outerWidth();
+
+		if (menuEndOffset > bodyEndOffset) {
+			var change = (menuEndOffset - bodyEndOffset) + 4;
+			$(this).css("left", "-" + change + "px");
+		}
+	});
+</script>
+        </div>
+      </div>
+
+    </div>
+  
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+</div></form>
+</body>
+</html>
