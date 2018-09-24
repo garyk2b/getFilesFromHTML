@@ -1,4 +1,6 @@
 # getFilesFromHTML
+![Alt text](dlFileByExtension.png?raw=true "Title")
+
 Get Files from HTML
 
 This Python tool will download files for a given file type (extension) on an HTML web page.  It can be useful for projects that require sharing many links to files within an HTML page.
