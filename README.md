@@ -1,5 +1,5 @@
 # getFilesFromHTML
-![Alt text](Download%20By%20File%20Type%20from%20HTML/dlFileByExtension.png?raw=true "Title")
+![Alt text](Download%20By%20File%20Type%20from%20HTML/downloadFileByExtension.png?raw=true "Title")
 
 Get Files from HTML
 
