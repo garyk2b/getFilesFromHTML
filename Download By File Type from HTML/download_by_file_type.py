@@ -1,5 +1,5 @@
 #-------------------------------------------------------------------------------
-# Name:        refresh_database
+# Name:        download_by_file_type.py
 # Purpose:
 #
 # Author:      Garret Krawchison
